@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main([Ljava.lang.String;)
+comment1.params=
+comment1.target=VirtualPetFace()
+comment10.params=mood
+comment10.target=void\ getImages(java.lang.String)
+comment11.params=message
+comment11.target=void\ setMessage(java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=void\ createGUI()
+comment5.params=
+comment5.target=void\ setBackground()
+comment6.params=path\ description
+comment6.target=java.awt.Image\ createImage(java.lang.String,\ java.lang.String)
+comment7.params=mood
+comment7.target=void\ setImage(java.lang.String)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=void\ getAllImages()
+numComments=12

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=square
+comment0.target=TwoDMatrix1(int)
+comment1.params=
+comment1.target=void\ fillMatrixXs()
+comment2.params=
+comment2.target=void\ fillLowerDiagonalOs()
+comment3.params=
+comment3.target=void\ diagOnes()
+comment4.params=row1\ col1\ row2\ col2
+comment4.target=boolean\ onSameDiag(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

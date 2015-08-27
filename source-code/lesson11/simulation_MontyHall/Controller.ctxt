@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Controller()
+comment1.params=s\ delay
+comment1.target=void\ say(java.lang.String,\ int)
+comment2.params=code\ delay
+comment2.target=void\ picture(int,\ int)
+comment3.params=code1\ code2\ delay
+comment3.target=void\ picture(int,\ int,\ int)
+comment4.params=
+comment4.target=int\ doorSelected()
+comment5.params=doorToOpen\ isGoat
+comment5.target=void\ open(int,\ boolean)
+comment6.params=doorToClose
+comment6.target=void\ close(int)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=homeName\ awayName\ homeScore\ awayScore
+comment0.target=GameResult(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ homeTeam()
+comment2.params=
+comment2.target=java.lang.String\ awayTeam()
+comment3.params=
+comment3.target=int\ homeScore()
+comment4.params=
+comment4.target=int\ awayScore()
+numComments=5

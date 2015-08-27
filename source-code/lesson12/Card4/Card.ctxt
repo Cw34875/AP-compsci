@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=myRank\ mySuit
+comment0.target=Card(int,\ int)
+comment1.params=
+comment1.target=int\ rank()
+comment2.params=
+comment2.target=int\ suit()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Measurement()
+comment1.params=ft
+comment1.target=Measurement(int)
+comment2.params=ft\ in
+comment2.target=Measurement(int,\ int)
+comment3.params=m
+comment3.target=Measurement\ plus(Measurement)
+comment4.params=m
+comment4.target=Measurement\ minus(Measurement)
+comment5.params=n
+comment5.target=Measurement\ multiple(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=m
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=m
+comment8.target=int\ compareTo(Measurement)
+numComments=9

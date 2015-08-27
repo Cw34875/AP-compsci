@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DiceRollGenerator()
+comment1.params=
+comment1.target=void\ roll()
+comment2.params=
+comment2.target=int\ total()
+comment3.params=howMany
+comment3.target=void\ runTestSix(int)
+comment4.params=howMany
+comment4.target=void\ runTestTwelve(int)
+comment5.params=
+comment5.target=boolean\ testSixInFourRolls()
+comment6.params=
+comment6.target=boolean\ test12In24Rolls()
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TreasureHunt()
+comment1.params=start
+comment1.target=boolean\ huntSucceeds(int)
+numComments=2

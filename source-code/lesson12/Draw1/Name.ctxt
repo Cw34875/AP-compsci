@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=first\ last
+comment0.target=Name(java.lang.String,\ java.lang.String)
+comment1.params=first\ middle\ last
+comment1.target=Name(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ lastFirst()
+comment3.params=
+comment3.target=java.lang.String\ fullName()
+comment4.params=namePart
+comment4.target=java.lang.String\ caseFixed(java.lang.String)
+numComments=5

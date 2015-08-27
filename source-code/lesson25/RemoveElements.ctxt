@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RemoveElements()
+comment1.params=x
+comment1.target=void\ remove(int)
+comment2.params=x\ k
+comment2.target=void\ removeHelper(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

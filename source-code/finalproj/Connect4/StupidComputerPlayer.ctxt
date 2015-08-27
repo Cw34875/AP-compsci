@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=name\ color
+comment0.target=StupidComputerPlayer(java.lang.String,\ java.awt.Color)
+comment1.params=board
+comment1.target=Move\ getMove(Board)
+numComments=2

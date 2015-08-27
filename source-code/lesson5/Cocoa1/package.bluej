@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=217
+package.editor.width=379
+package.editor.x=239
+package.editor.y=247
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=116
+target1.editor.y=138
+target1.height=50
+target1.name=Cocoa
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=90
+target1.y=40

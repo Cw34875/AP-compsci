@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=192
+package.editor.width=349
+package.editor.x=219
+package.editor.y=227
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=733
+target1.editor.width=872
+target1.editor.x=33
+target1.editor.y=93
+target1.height=50
+target1.name=Age
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=100
+target1.y=60

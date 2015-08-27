@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=left\ right
+comment0.target=Interval(int,\ int)
+comment1.params=
+comment1.target=int\ sum()
+comment2.params=left\ right
+comment2.target=int\ sumHelper(int,\ int)
+numComments=3

@@ -1,0 +1,56 @@
+<<<<<<< .mine
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=101
+package.editor.y=31
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=348
+target1.editor.y=213
+target1.height=50
+target1.name=Shapes
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10
+target2.editor.height=578
+target2.editor.width=743
+target2.editor.x=460
+target2.editor.y=81
+target2.height=50
+target2.name=LabWorker
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=90
+target2.x=160
+target2.y=10
+=======
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=501
+package.editor.y=89
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=276
+target1.editor.y=105
+target1.height=50
+target1.name=Shapes
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10
+>>>>>>> .r2071

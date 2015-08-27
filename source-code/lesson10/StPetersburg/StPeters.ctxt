@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=entryFee
+comment0.target=StPeters(double)
+comment1.params=howMany
+comment1.target=void\ tester(int)
+comment2.params=
+comment2.target=boolean\ runGame()
+comment3.params=
+comment3.target=int\ flip()
+numComments=4

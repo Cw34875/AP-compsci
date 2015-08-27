@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=Board(int,\ int)
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=
+comment2.target=int\ getRows()
+comment3.params=
+comment3.target=int\ getCols()
+comment4.params=row\ col
+comment4.target=Player\ getCell(int,\ int)
+comment4.text=\n\ Returns\ the\ Player\ whose\ piece\ occupies\ the\ given\ location,\ \n\ @param\ row\ int\n\ @param\ col\ int\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r\ s
+comment0.target=Card(int,\ int)
+comment1.params=
+comment1.target=int\ suit()
+comment2.params=
+comment2.target=int\ rank()
+comment3.params=c
+comment3.target=boolean\ outranks(Card)
+comment4.params=c
+comment4.target=boolean\ outranksIgnoreSuit(Card)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

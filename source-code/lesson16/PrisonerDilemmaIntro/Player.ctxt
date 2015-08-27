@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=amt
+comment1.target=void\ increaseScore(int)
+comment2.params=
+comment2.target=int\ score()
+comment3.params=
+comment3.target=boolean\ cooperates()
+comment4.params=opponentChoice
+comment4.target=void\ remember(boolean)
+numComments=5

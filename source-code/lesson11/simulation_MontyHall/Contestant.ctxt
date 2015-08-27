@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c\ randoms
+comment0.target=Contestant(Controller,\ java.util.Random)
+comment1.params=
+comment1.target=int\ guess1()
+comment2.params=openedDoor
+comment2.target=int\ guess2(int)
+numComments=3

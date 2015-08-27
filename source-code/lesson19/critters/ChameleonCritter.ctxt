@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=actors
+comment0.target=void\ processActors(java.util.ArrayList)
+comment0.text=\n\ Randomly\ selects\ a\ neighbor\ and\ changes\ this\ critter's\ color\ to\ be\ the\n\ same\ as\ that\ neighbor's.\ If\ there\ are\ no\ neighbors,\ no\ action\ is\ taken.\n
+comment1.params=loc
+comment1.target=void\ makeMove(info.gridworld.grid.Location)
+comment1.text=\n\ Turns\ towards\ the\ new\ location\ as\ it\ moves.\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=door\ c
+comment0.target=Stage(int,\ Controller)
+comment1.params=doorNumber
+comment1.target=boolean\ isClosed(int)
+comment2.params=doorNumber
+comment2.target=void\ open(int)
+numComments=3

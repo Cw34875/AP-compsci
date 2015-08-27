@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Debug(java.lang.String)
+comment1.params=s
+comment1.target=boolean\ contains1MoreThan(java.lang.String)
+comment2.params=s1\ s2
+comment2.target=void\ check(java.lang.String,\ java.lang.String)
+numComments=3

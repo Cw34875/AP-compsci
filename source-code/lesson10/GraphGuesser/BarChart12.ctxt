@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BarChart12()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=entry
+comment2.target=void\ add(int)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ drawAxes(java.awt.Graphics)
+comment5.params=g\ bar
+comment5.target=void\ drawXLabel(java.awt.Graphics,\ int)
+comment6.params=g
+comment6.target=void\ drawBars(java.awt.Graphics)
+comment7.params=g\ bar\ count
+comment7.target=void\ drawBar(java.awt.Graphics,\ int,\ int)
+numComments=8

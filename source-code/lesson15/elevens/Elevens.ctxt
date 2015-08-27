@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Elevens()
+comment1.params=numOnTable
+comment1.target=Elevens(int)
+comment2.params=
+comment2.target=int\ play()
+comment3.params=
+comment3.target=boolean\ removeJQK()
+comment4.params=
+comment4.target=boolean\ removeSums11()
+comment5.params=k
+comment5.target=void\ setNumOnTable(int)
+comment6.params=howMany
+comment6.target=void\ simulate(int)
+comment7.params=
+comment7.target=void\ sortHand()
+numComments=8

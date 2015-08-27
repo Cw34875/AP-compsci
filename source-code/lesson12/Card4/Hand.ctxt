@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=
+comment1.target=void\ fillHand()
+comment2.params=suit\ rank
+comment2.target=boolean\ cardExistsInHand(int,\ int)
+comment3.params=newCard
+comment3.target=void\ insertInOrder(Card)
+comment4.params=
+comment4.target=void\ testInsertInOrder()
+numComments=5

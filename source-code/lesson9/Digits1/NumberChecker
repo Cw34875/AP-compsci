@@ -1,0 +1,12 @@
+/**
+ * BLUEJ EXERCISE
+ * ASSERTION:A1:allBalanced:Make sure braces and parentheses are balanced!
+ *
+ * For exercise_3.html
+ * 
+ * Write a nextLeapYear method that, given an int year, returns the next highest leap year. For example, nextLeapYear(2005) would return 2008
+ * 
+ */
+
+ 
+ 

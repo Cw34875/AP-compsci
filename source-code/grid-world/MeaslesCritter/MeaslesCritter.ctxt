@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MeaslesCritter()
+comment1.params=time
+comment1.target=MeaslesCritter(int)
+comment2.params=actors
+comment2.target=void\ processActors(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ expose()
+comment4.params=loc
+comment4.target=void\ makeMove(info.gridworld.grid.Location)
+numComments=5

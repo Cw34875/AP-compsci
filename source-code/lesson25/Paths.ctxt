@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ k
+comment0.target=Paths(int,\ int)
+comment1.params=n\ k
+comment1.target=int\ pathCount1(int,\ int)
+comment2.params=n\ k
+comment2.target=int\ pathCount2(int,\ int)
+numComments=3

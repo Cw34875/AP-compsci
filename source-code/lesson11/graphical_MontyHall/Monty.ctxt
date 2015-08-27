@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Monty()
+comment1.target=int\ playGame()
+comment2.target=int\ gameStart()
+comment3.target=int\ playerGuess()
+comment4.params=doorWithCar\ firstChoice
+comment4.target=int\ tempt(int,\ int)
+comment5.params=doorWithCar\ chosenDoor
+comment5.target=int\ goatDoorToShow(int,\ int)
+comment6.params=goatDoor\ firstChoice
+comment6.target=int\ newGuess(int,\ int)
+comment7.params=doorWithCar\ goatDoor\ secondChoice
+comment7.target=int\ gameResult(int,\ int,\ int)
+numComments=8

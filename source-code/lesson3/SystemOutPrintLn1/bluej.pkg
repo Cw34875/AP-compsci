@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=200
+package.editor.width=355
+package.editor.x=168
+package.editor.y=423
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=525
+target1.editor.width=835
+target1.editor.x=0
+target1.editor.y=0
+target1.height=50
+target1.name=CandyJar
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=60
+target1.y=10

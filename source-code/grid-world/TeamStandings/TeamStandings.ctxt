@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=teamNames
+comment0.target=TeamStandings(java.lang.String[])
+comment1.params=result
+comment1.target=void\ recordGameResult(GameResult)
+comment2.params=name
+comment2.target=int\ teamIndex(java.lang.String)
+comment3.params=index\ points
+comment3.target=void\ adjust(int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

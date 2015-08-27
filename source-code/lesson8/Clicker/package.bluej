@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=236
+package.editor.width=432
+package.editor.x=217
+package.editor.y=227
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=785
+target1.editor.width=697
+target1.editor.x=394
+target1.editor.y=86
+target1.height=50
+target1.name=Clicker
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=110
+target1.y=40
